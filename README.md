@@ -24,3 +24,14 @@ Hi everyone, this is a open resource you can edit as you like, but can´t sell i
 
 
 This exterior map it´s a YMAP file, it is well optimized
+
+
+
+Tutorial de instalación:
+
+1 Descarga y descomprime el archivo.
+2 Abre tu carpeta de mapeados de tu servidor.
+3 Crea una nueva carpeta con el nombre ranchogym.
+4 Dentro de la carpeta ranchogym crea una carpeta que se llame stream.
+5 Arrastra el Ymap a la carpeta stream.
+6 Arrastra el fxmanifest a la carpeta ranchogym.
