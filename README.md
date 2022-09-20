@@ -33,5 +33,16 @@ Tutorial de instalación:
 2 Abre tu carpeta de mapeados de tu servidor.
 3 Crea una nueva carpeta con el nombre ranchogym.
 4 Dentro de la carpeta ranchogym crea una carpeta que se llame stream.
-5 Arrastra el Ymap a la carpeta stream.
+5 Arrastra los dos Ymap a la carpeta stream.
 6 Arrastra el fxmanifest a la carpeta ranchogym.
+
+Installation walkthrough:
+
+1 Download and unzip the file.
+2 Open your server mapping folder.
+3 Create a new folder named ranchogym.
+4 Inside the ranchogym folder, create a folder called stream.
+5 Drag the two Ymaps into the stream folder.
+6 Drag the fxmanifest into the ranchogym folder.
+
+If you have some problem with instalation or working, we can support u on discord: https://discord.gg/YRxdNmW27u
